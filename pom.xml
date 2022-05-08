@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>org.springframework</groupId>
-	<artifactId>sb-maven-demo</artifactId>
+	<artifactId>spring-maven-demo</artifactId>
 	<packaging>jar</packaging>
 	<version>0.1.0</version>
 
